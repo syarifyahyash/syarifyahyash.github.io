@@ -1,4 +1,4 @@
 # syarifyahyash.github.io
 Tester
 
-# Deploment pertama saya ke Github
+# Deployment pertama saya ke Github
