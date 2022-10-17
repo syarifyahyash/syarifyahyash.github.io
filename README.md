@@ -2,7 +2,7 @@
 Tester
 
 # Deployment pertama saya ke Github
-Main File : index.php
 
 # Update
 Tolong. Help bang. Stuck disini akwokaowka
+Cara set main page ke index.php gimana bang ?
